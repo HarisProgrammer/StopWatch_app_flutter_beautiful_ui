@@ -1,4 +1,4 @@
-# kbc_quiz_app
+# Stop watch App
 
 A new Flutter project.
 
